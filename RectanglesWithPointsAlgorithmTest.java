@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.util.Scanner;
 
-class RectanglesWithPointsAlgorithmTest {
+class xasasxRectanglesWithPointsAlgorithmTest {
     @Test
     void firstTest(){
         String data = """
